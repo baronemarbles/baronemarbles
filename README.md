@@ -2,7 +2,7 @@
  ##
 <pre>
 - Atualmente aprendendo a programar em Phyton, C, Java, HTML, CSS e JS! 🧃
-- I'm Currently learning Phyton, C, Java, HTML, CSS and building my way up to JS! 🧃
+- I'm Currently learning Phyton, C, Java, PHP, MYSQL, HTML, CSS and building my way up to JS! 🧃
 
 
 
