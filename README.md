@@ -1,8 +1,8 @@
 ### Opa, meu nome é Marcio, prazer te conhecer!🍵 // Hi there! i'm Marcio, nice to meet ya! 🍵
  ##
 <pre>
-- Atualmente aprendendo a programar em Phyton, C, Java, HTML, CSS e JS! 🧃
-- I'm Currently learning Phyton, C, Java, PHP, MYSQL, HTML, CSS and building my way up to JS! 🧃
+- Atualmente aprendendo a programar em Phyton, C, Java, PHP, MYSQL, HTML, CSS e JS! 🧃
+- I'm CS Bachelor student. I'm Currently learning Phyton, C, Java, PHP, MYSQL, HTML, CSS and building my way up to JS! 🧃
 
 
 
