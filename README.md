@@ -2,7 +2,7 @@
  ##
 <pre>
 - Estou me aperfeiçoando em C/C++, Phyton, Java, PHP, MYSQL, HTML, CSS e JS! 🧃
-- I'm persuing a Computer Science Bachelor degree and currently i'm  learning C, Java, PHP, MYSQL, HTML, CSS and 
+- I'm persuing a Computer Science Bachelor degree and currently learning C, Java, PHP, MYSQL, HTML, CSS and 
  building my way up to JS! 🧃
 
 
