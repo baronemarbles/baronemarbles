@@ -1,4 +1,4 @@
-### Opa, meu nome é Marcio, prazer te conhecer!🍵 // Hi there! i'm Marcio, nice to meet ya! 🍵
+### Oie, meu nome é Marcio, prazer te conhecer!🍵 // Hi there! i'm Marcio, nice to meet ya! 🍵
  ##
 <pre>
 - Atualmente aprendendo a programar em Phyton, C, Java, PHP, MYSQL, HTML, CSS e JS! 🧃
