@@ -1,8 +1,9 @@
-### Oie, meu nome é Marcio, prazer te conhecer!🍵 // Hi there! i'm Marcio, nice to meet ya! 🍵
+### Oie, meu nome é Marcio, prazer te conhecer!🤙 // Hi there! i'm Marcio, nice to meet ya! 🤙
  ##
 <pre>
-- Atualmente aprendendo a programar em Phyton, C, Java, PHP, MYSQL, HTML, CSS e JS! 🧃
-- I'm CS Bachelor student. I'm Currently learning Phyton, C, Java, PHP, MYSQL, HTML, CSS and building my way up to JS! 🧃
+- Estou me aperfeiçoando em C/C++, Phyton, Java, PHP, MYSQL, HTML, CSS e JS! 🧃
+- I'm persuing a Computer Science Bachelor degree and currently i'm  learning C, Java, PHP, MYSQL, HTML, CSS and 
+ building my way up to JS! 🧃
 
 
 
