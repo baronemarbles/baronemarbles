@@ -1,9 +1,8 @@
-### <h2>Oie, meu nome é Marcio, prazer te conhecer!🤙 // Hi there! i'm Marcio, nice to meet ya! 🤙</h2>
+### <h2>Oie, meu nome é Marcio, prazer te conhecer!🤙 // Hi there! i'm Marcio, glad to meet you! 🤙</h2>
  
 <pre>
-- Estou me aperfeiçoando em C/C++, Phyton, Java, PHP, MYSQL, HTML, CSS e JS! 🧃
-- I'm persuing a Computer Science Bachelor degree and currently learning C, Java, PHP, MYSQL, HTML, CSS and 
- building my way up to JS! 🧃
+- Estou me aperfeiçoando em C/C++, Phyton, Java, PHP, MYSQL, HTML, CSS, JS, SASS e React! 🧃
+- I'm pursuing a Computer Science Bachelor degree and currently learning C/C++, Python Java, PHP, MYSQL, HTML, CSS, JS, SASS and React! 🧃
 
 
 
