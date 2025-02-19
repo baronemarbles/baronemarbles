@@ -1,4 +1,4 @@
-### <h2>Oie, meu nome é Marcio, prazer te conhecer!🤙 // Hi there! i'm Marcio, glad to meet you! 🤙</h2>
+### <h2>Olá, meu nome é Marcio, prazer te conhecer!🤙 // Hi there! i'm Marcio, glad to meet you! 🤙</h2>
  
 <pre>
 - Estou cursando o Bacheraledo em Ciências da Computação na <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">UNISANTOS</a> e estou me aperfeiçoando em C/C++, Phyton, Java, 
