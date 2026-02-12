@@ -1,7 +1,7 @@
 ### <h2>Olá, meu nome é Marcio, prazer te conhecer!🤙 // Hi there! i'm Marcio, glad to meet you! 🤙</h2>
  
 <pre>
-- Estou cursando o Bacheraledo em Ciências da Computação na <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">UNISANTOS</a> e estou me aperfeiçoando em C/C++, Phyton, Java, 
+- Estou cursando o Bacheraledo em Ciência da Computação na <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">UNISANTOS</a> e estou me aperfeiçoando em C/C++, Phyton, Java, 
  PHP, MYSQL, HTML, CSS, JS, SASS e React! 
 - I'm pursuing a Computer Science Bachelor degree at the <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">Catholic University of Santos</a> and currently learning C/C++, Python,
  Java, PHP, MYSQL, HTML, CSS, JS, SASS and React! 🇺🇸
