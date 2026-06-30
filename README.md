@@ -1,6 +1,7 @@
-### <h2> Hi there! i'm Marcio, glad to meet you! 🤙</h2>
+### <h1> Hi there! i'm Marcio, glad to meet you! 🤙</h1>
  
 ***<p>I'm enrolled in a Computer Science Bachelor degree program at the <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">Catholic University of Santos</a>.***
+
  <br>
  My goal is to be able to deliver efficient, communicative and fluid experiences for my users through code as a front-end developer. And build scalable, reusable and efficient code as a developer.
 </p>
@@ -22,14 +23,18 @@
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p>Yet, i found satisfaction building the backend, and i'm also learning about this nich. I want to work as a back-end developer either. I believe that one complements the other.</p>
-
-
+<p>Yet, i found satisfaction building the backend, and i'm also learning about this nich. I want to work as a back-end developer either. I believe that one complements the other.
+ <br>
 Currently studying React Components and OOP.
+</p>
 
 <div>
 <a href = "mailto:baronempbb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcio-paiva-barone-borges-b8370b209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> <img align="center" alt="Tanjiro-gif"  width="200" height="200" style="border-radius:100px;" src="https://media.tenor.com/72IKMecmpKAAAAAM/demon-slayer-tanjiro.gif">
- 
+</div> 
+<div display="flex" align="right" style="flex-direction:column">
+ <b><a href="https://baronemarbles.github.io/Marbles.dev/">Checkout my website!<a/></b>
+  <br>
+ <img align="right" alt="Tanjiro-gif"  width="200" height="200" style="border-radius:100px;" src="https://media.tenor.com/72IKMecmpKAAAAAM/demon-slayer-tanjiro.gif">
+</div>
 </div>
