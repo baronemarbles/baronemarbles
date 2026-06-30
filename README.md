@@ -1,19 +1,31 @@
-### <h2>Olá, meu nome é Marcio, prazer te conhecer!🤙 // Hi there! i'm Marcio, glad to meet you! 🤙</h2>
+### <h2> Hi there! i'm Marcio, glad to meet you! 🤙</h2>
  
-<pre>
-- Estou cursando o Bacheraledo em Ciência da Computação na <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">UNISANTOS</a> e estou me aperfeiçoando em C/C++, Phyton, Java, 
- PHP, MYSQL, HTML, CSS, JS, SASS e React! 
-- I'm pursuing a Computer Science Bachelor degree at the <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">Catholic University of Santos</a> and currently learning C/C++, Python,
- Java, PHP, MYSQL, HTML, CSS, JS, SASS and React! 🇺🇸
+***<p>I'm enrolled in a Computer Science Bachelor degree program at the <a href="https://www.unisantos.br/vestibular/ciencia-da-computacao/">Catholic University of Santos</a>.***
+ <br>
+ My goal is to be able to deliver efficient, communicative and fluid experiences for my users through code as a front-end developer. And build scalable, reusable and efficient code as a developer.
+</p>
+
+**Techonologies i'm most familiar with and learning**
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+**Tools**
+<br>
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<p>Yet, i found satisfaction building the backend, and i'm also learning about this nich. I want to work as a back-end developer either. I believe that one complements the other.</p>
 
 
-
-
-
-</pre>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baronemarbles&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baronemarbles&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+Currently studying React Components and OOP.
 
 <div>
 <a href = "mailto:baronempbb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
